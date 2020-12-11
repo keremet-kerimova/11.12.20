@@ -21,6 +21,7 @@ h2{
     text-align: center;
     margin-top: 0;
     margin-bottom: 8px;
-    font-weight: 500;
+    font-family:font-family-base;
+    font-weight: 200;
     line-height: 1.2;
 }
