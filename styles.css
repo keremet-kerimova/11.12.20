@@ -7,6 +7,7 @@ body{
     max-width: 936px;
 }
 div{
+    display: block;
     padding-top: 48px;
     padding-bottom: 48px;
 }
@@ -18,4 +19,8 @@ img{
 h2{
     font-size: 32px;
     text-align: center;
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-weight: 500;
+    line-height: 1.2;
 }
