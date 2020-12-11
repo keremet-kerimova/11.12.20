@@ -1,8 +1,21 @@
 *{
     box-sizing: border-box;
 }
+body{
+    background-color: white;
+    margin: 0;
+    max-width: 936px;
+}
+div{
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
 img{
     margin-right: auto;
     margin-left: auto;
     display: block;
+}
+h2{
+    font-size: 32px;
+    text-align: center;
 }
